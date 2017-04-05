@@ -4,7 +4,7 @@ Country Runner is an "avoid-the-obstacles" sidescroller game. Choose your avatar
 
 ## Installation
 
-We are using ant to automate compiling, testing, and running.
+We are using ant to automate compiling, testing, and running. <br />
 To run the game: `ant run`
 
 ## Usage
@@ -13,11 +13,11 @@ Avoid all obstacles that come into the screen. Could be a stationary scarecrow, 
 Some crows could be overhead so time your jumps carefully.
 Press the Up arrow key to jump, Left/Right arrow keys to move forward or backward.
 
-Select <b>Play Game</b> to start the game.
-Select <b>High Score</b> to display user high scores.
-Select <b>Instructions</b> to learn how to play.
-Select <b>Choose Difficulty</b> choose the difficulty of the game. 
-Select <b>Choose Avatar</b> to choose an avatar to pay.
+Select <b>Play Game</b> to start the game. <br />
+Select <b>High Score</b> to display user high scores. <br />
+Select <b>Instructions</b> to learn how to play. <br />
+Select <b>Choose Difficulty</b> choose the difficulty of the game. <br />
+Select <b>Choose Avatar</b> to choose an avatar to pay. <br />
 Select <b>Choose Background</b> to choose a background for the game.
 
 ## Credits
